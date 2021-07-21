@@ -19,17 +19,13 @@
  
 metadata {
 	definition (name: "Fibaro Single Switch 2 FGS-213", namespace: "aperon", author: "Alex Perchatochnikov", vid:"generic-switch-power-energy") {
-		  capability "Switch"
-		  capability "Energy Meter"
-		  capability "Power Meter"
-		  capability "Button"
-		capability "Holdable Button"
+		capability "Switch"
+		capability "Button"
+		capability "Energy Meter"
+		capability "Power Meter"
 		capability "Configuration"
 		capability "Health Check"
 		capability "Refresh"
-		capability "Sensor"
-		capability "Actuator"
-		capability "Polling"
 
 		command "reset"
 
