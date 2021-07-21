@@ -1,6 +1,8 @@
 # SmartThings Public Github Repo
 Below you will find a list of the SmartApps and Device Handlers that I've created. I've included a short description of what they can do.
 
+<hr />
+
 Here are some links to help you get started coding right away:
 
 * [Github-specific Documentation](http://docs.smartthings.com/en/latest/tools-and-ide/github-integration.html)
